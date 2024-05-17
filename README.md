@@ -1,4 +1,4 @@
-# Multithreading Experiment
+# Start with multithreadings
 
 This Java code demonstrates a simple multithreading experiment using the `Thread` class. The `experiment` class extends `Thread` and overrides its `run` method to print a message indicating that the thread is running. In the `Multithread` class, ten instances of the `experiment` class are created and started sequentially with a delay of 1000 milliseconds between each start.
 
