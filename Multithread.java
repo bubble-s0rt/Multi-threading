@@ -3,13 +3,13 @@ class experiment extends Thread {
 	{
 		try {
 			System.out.println(
-				"Thread " + Thread.currentThread().threadId()+ " is running and d");
+				"Thread " + Thread.currentThread().threadId()+ " is running and ");
 		}
 		catch (Exception e) {
 			System.out.println("Exception is caught");
 		}
 	}
-}git add 
+}
 
 
 public class Multithread {
