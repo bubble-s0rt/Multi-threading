@@ -3,7 +3,7 @@ class experiment extends Thread {
 	{
 		try {
 			System.out.println(
-				"Thread " + Thread.currentThread().threadId()+ " is running and");
+				"Thread " + Thread.currentThread().threadId()+ " is running and d");
 		}
 		catch (Exception e) {
 			System.out.println("Exception is caught");
