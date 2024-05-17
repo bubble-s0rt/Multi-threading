@@ -1,0 +1,1 @@
+{"name":"Local: frequency of letters","url":"e:\\Programs\\practise\\.vscode\\frequency of letters.cpp","tests":[{"id":1711123159325,"input":"abbbs","output":"a : 1\nb : 2\ns : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programs\\practise\\.vscode\\frequency of letters.cpp","group":"local","local":true}
